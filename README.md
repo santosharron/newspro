@@ -1,7 +1,7 @@
 # Newspro
 NewsPro is an awesome news app that uses your existing WordPress admin panel and creates native Android and iOS apps in minutes. Convert any WordPress-based website into a native android and ios news app. Just put your website link and simply configure your website, and it will be all yours.
 
-### Stable App Version - 1.0.1 
+# Stable App Version - 1.0.1 
 
 ![Preview](https://i.imgur.com/Slp8Ccv.png)
 
